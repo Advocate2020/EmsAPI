@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/EmployeeManagementSystemAPI/bin/Debug/net8.0/e-m-s-1dd64-firebase-adminsdk-fbsvc-312da5c2db.json
+/EmployeeManagementSystemAPI/bin/Debug/net8.0/appsettings.Development.json
+/EmployeeManagementSystemAPI/e-m-s-1dd64-firebase-adminsdk-fbsvc-312da5c2db.json
+/EmployeeManagementSystemAPI/appsettings.Development.json
+EmployeeManagementSystemAPI/.vs
+EmployeeManagementSystemAPI/bin
+EmployeeManagementSystemDB/bin
+EmployeeManagementSystemAPI/obj
+EmployeeManagementSystemBL/obj

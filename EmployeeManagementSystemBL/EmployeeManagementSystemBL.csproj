@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="DTO%27s\" />
+    <Folder Include="Logic\" />
+  </ItemGroup>
+
+  <ItemGroup>	
+	<PackageReference Include="FirebaseAdmin" Version="2.4.0" />
+	<PackageReference Include="FirebaseAuthentication.net" Version="4.1.0" />	
+	<PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.8" />
+	<PackageReference Include="Swashbuckle.AspNetCore.Annotations" Version="6.5.0" />
+  </ItemGroup>
+
+</Project>
