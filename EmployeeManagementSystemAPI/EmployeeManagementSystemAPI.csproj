@@ -28,8 +28,4 @@
     <ProjectReference Include="..\EmployeeManagementSystemDB\EmployeeManagementSystemDB.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
 </Project>
